@@ -12,7 +12,4 @@ The dataset contains 14 columns, including Order ID, Date, Customer ID, Product,
 - Correct data formats (dates, numbers, and text).
 
 ## Tools
-- Microsoft Excel
-
-- ## Dataset File
-[Download Dataset for Data Analytics Sheet1](./Dataset%20for%20Data%20Analytics-Sheet1.xlsx)
+- Microsoft Excel.
